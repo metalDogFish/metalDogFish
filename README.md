@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on building games
 
 - 💬 Ask me about C# and UnityGameEngine or javascript programming and p5.js
-- 📫 How to reach me: shadernyk@hotmail.com
+- 📫 How to reach me: shadernyk@proton.me
 
 
 
